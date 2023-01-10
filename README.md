@@ -27,7 +27,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/order-summary-component-6pH_-3QlPg)
 - Live Site URL: [Add live site URL here](https://tubular-twilight-7d6b52.netlify.app/)
 
 ## My process
